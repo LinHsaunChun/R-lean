@@ -1,0 +1,4 @@
+¶}®Ú¸¹
+sqrt(x)
+¶¥¼h
+factorial(x)
