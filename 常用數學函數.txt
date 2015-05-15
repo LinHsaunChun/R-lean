@@ -2,3 +2,15 @@
 sqrt(x)
 階層
 factorial(x)
+mean()            平均數
+median()         中位數
+range()            全距
+quantile()        四分位數
+IQR()                四分位差
+summary()     描述統計摘要
+sd()                  標準差
+var()                 變異數
+skewness()   偏度
+kurtosis()       峰度
+table()             交叉表
+options()        調整R的設定值
